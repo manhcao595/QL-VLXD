@@ -1,0 +1,6 @@
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DTO\bin\Debug\DTO.dll
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DTO\bin\Debug\DTO.pdb
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DTO\obj\Debug\DTO.dll
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DTO\obj\Debug\DTO.pdb

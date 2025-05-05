@@ -1,0 +1,9 @@
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\bin\Debug\DAL.dll
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\bin\Debug\DAL.pdb
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\bin\Debug\DTO.dll
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\bin\Debug\DTO.pdb
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\obj\Debug\DAL.dll
+C:\Users\caoma\source\repos\Prj_ql-vlxd\DAL\obj\Debug\DAL.pdb

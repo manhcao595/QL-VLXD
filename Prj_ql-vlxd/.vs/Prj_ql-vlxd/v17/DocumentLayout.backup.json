@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C44C04D1-1F3B-46FA-9944-AB6661BF4D88}|GUI\\GUI.csproj|c:\\users\\caoma\\source\\repos\\prj_ql-vlxd\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44C04D1-1F3B-46FA-9944-AB6661BF4D88}|GUI\\GUI.csproj|solutionrelative:gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44C04D1-1F3B-46FA-9944-AB6661BF4D88}|GUI\\GUI.csproj|c:\\users\\caoma\\source\\repos\\prj_ql-vlxd\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44C04D1-1F3B-46FA-9944-AB6661BF4D88}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44C04D1-1F3B-46FA-9944-AB6661BF4D88}|GUI\\GUI.csproj|c:\\users\\caoma\\source\\repos\\prj_ql-vlxd\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44C04D1-1F3B-46FA-9944-AB6661BF4D88}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44C04D1-1F3B-46FA-9944-AB6661BF4D88}|GUI\\GUI.csproj|C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C44C04D1-1F3B-46FA-9944-AB6661BF4D88}|GUI\\GUI.csproj|solutionrelative:gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:55:54.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\GUI\\Login.cs",
+              "RelativeToolTip": "GUI\\Login.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:55:47.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\GUI\\Admin.cs",
+              "RelativeDocumentMoniker": "GUI\\Admin.cs",
+              "ToolTip": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\GUI\\Admin.cs",
+              "RelativeToolTip": "GUI\\Admin.cs",
+              "ViewState": "AgIAAPcBAAAAAAAAAAAowA0CAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:54:11.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\GUI\\Admin.cs",
+              "RelativeDocumentMoniker": "GUI\\Admin.cs",
+              "ToolTip": "C:\\Users\\caoma\\source\\repos\\Prj_ql-vlxd\\GUI\\Admin.cs [Design]",
+              "RelativeToolTip": "GUI\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:47:13.624Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
